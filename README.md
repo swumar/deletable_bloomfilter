@@ -1,4 +1,4 @@
-# Deletable Bloom Filters in a Distributed Proxy Server Caching
+# Deletable Bloom Filters in a Distributed Proxy Server Cache
 
 ## Introduction: 
 
